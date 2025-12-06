@@ -13,6 +13,7 @@ import java.util.List;
  * StudentDao
  * StudentDao类，用于处理与学生相关的数据库操作
  * 包含查询、更新、删除和添加学生信息的功能
+ * 这里的StudentDao类继承自Dao类，并实现了StudentDao接口
  */
 public class StudentDao {
 
